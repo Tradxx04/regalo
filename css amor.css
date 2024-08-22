@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(121, 39, 53);
+    text-align: center;
+}
+
+h1 {
+    color: rgb(7, 7, 7);
+    font-size: 48px;
+}
+/* Animación con keyframe llamada "latidos" */
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.4); }
+    to { transform: none; }
+}
+/* En la clase corazon vamos a llamar latidos en la animación  */
+.corazon {
+	display: inline-block;
+	font-size: 150px;
+	text-shadow: 0 0 10px #222,1px 1px  0 #450505;
+	color: rgb(202, 21, 21);
+	animation: latidos .5s infinite;
+	transform-origin: center;
+}
+
+body { text-align: center;
+  background: #cc478a; height: 230px;
+}
+/* Animación con keyframe llamada "latidos" */
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.4); }
+    to { transform: none; }
+}
+/* En la clase corazon vamos a llamar latidos en la animación  */
+.corazon {
+	display: inline-block;
+	font-size: 150px;
+	text-shadow: 0 0 10px #222,1px 1px  0 #450505;
+	color: rgb(202, 21, 21);
+	animation: latidos .5s infinite;
+	transform-origin: center;
+}
+
+body { text-align: center;
+  background: #cc478a; height: 230px;
+}
+/* Animación con keyframe llamada "latidos" */
+@keyframes latidos {
+    from { transform: none; }
+    50% { transform: scale(1.4); }
+    to { transform: none; }
+}
+/* En la clase corazon vamos a llamar latidos en la animación  */
+.corazon {
+	display: inline-block;
+	font-size: 150px;
+	text-shadow: 0 0 10px #222,1px 1px  0 #450505;
+	color: rgb(202, 21, 21);
+	animation: latidos .5s infinite;
+	transform-origin: center;
+}
+
+body { text-align: center;
+  background: #cc478a; height: 230px;
+}
